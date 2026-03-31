@@ -1,6 +1,7 @@
 ## 브랜치: 새 브랜치 만들기
 
 <img width="473" height="314" alt="스크린샷 2026-03-30 오전 11 45 06" src="https://github.com/user-attachments/assets/629b8102-0e72-46d3-bc67-da5637ec7757" />
+
 상단 브랜치 버튼 클릭 -> 다음과 같이 적기
 
 ```
@@ -28,3 +29,26 @@ detail-page.md 파일 만들고
 깃허브에서도 브랜치 바꾸면 볼 수 있음.
 
 ## 체크아웃
+<img width="1440" height="820" alt="스크린샷 2026-03-31 오후 6 48 04" src="https://github.com/user-attachments/assets/75e42a38-7f7a-44d2-a5b3-26dcb7a9e977" />
+
+우클릭 - 체크아웃을 하거나 더블클릭하면 됨.
+
+<img width="473" height="318" alt="스크린샷 2026-03-31 오후 6 50 27" src="https://github.com/user-attachments/assets/7f123014-a4e3-4295-bf99-1d2930fbb555" />
+
+새 브랜치 생성.. 이름은 feature/cart
+
+<img width="614" height="228" alt="스크린샷 2026-03-31 오후 6 52 44" src="https://github.com/user-attachments/assets/3f4a2bf6-db01-46b5-954e-00207869d191" />
+
+feature-list.md 파일을 위 처럼 수정
+
+<img width="739" height="167" alt="스크린샷 2026-03-31 오후 6 54 19" src="https://github.com/user-attachments/assets/e0bda2fc-273d-4218-9a20-ab2530d31804" />
+
+cart.md를 만들어서, 위 처럼 작성.
+
+<img width="1440" height="821" alt="스크린샷 2026-03-31 오후 6 55 32" src="https://github.com/user-attachments/assets/e4addddb-3bb3-4098-aed2-23883cc81b50" />
+
+그리고 커밋.
+
+<img width="1199" height="188" alt="스크린샷 2026-03-31 오후 6 56 43" src="https://github.com/user-attachments/assets/9b50a235-8765-4ce9-b04c-57eccd79ff26" />
+
+그럼 이렇게 됨.
